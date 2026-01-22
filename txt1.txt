@@ -3,4 +3,4 @@ Feature A
 commits count 3
 
 Feature B
-count commits 1
+count commits 2
