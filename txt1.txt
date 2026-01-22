@@ -4,3 +4,6 @@ commits count 3
 
 Feature B
 count commits 2
+
+Feature C
+count commits 1
